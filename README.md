@@ -43,3 +43,5 @@ up to a few kilometers with under $100 spent.
 
 Cellular collars might work better, considering the size fo them these days,
 but this tracker was well suited for the task at hand.
+
+I bought a serial-out-based 9600 baud camera also with the hope of capturing JPG snapshots and transmitting them back to the computer, but I somehow managed to break the camera's firmware. THe $80 cost to buy a new one wasn't worth it.
