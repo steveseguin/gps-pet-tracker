@@ -5,7 +5,7 @@ import serial
 from datetime import datetime
 
 try:
-	con = MySQLdb.connect('rdsnext72.c6npskow0rt3.us-east-1.rds.amazonaws.com', 'next72', 'MT97rane', 'tracker')
+	con = MySQLdb.connect('rdsnext72.c6npskow0rt3.us-east-1.rds.amazonaws.com', 'next72', 'dfdg25125g4ghs', 'tracker')
 	cur = con.cursor()
 except _mysql.Error, e:
 	print "Error %d: %s" % (e.args[0], e.args[1])
